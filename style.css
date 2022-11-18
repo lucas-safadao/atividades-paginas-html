@@ -1,0 +1,24 @@
+:root {
+    --prinmeira-cor: #738290;
+    --segunda-cor: #A1B5D8;
+    
+    --borda: #FFFCF7;
+
+    --fundo: #E4F0D0;
+    --text: #C2D8B9;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--fundo);
+    color: var(--text);
+    font-size: 30px;
+}
+
+h1 {
+    
+}
